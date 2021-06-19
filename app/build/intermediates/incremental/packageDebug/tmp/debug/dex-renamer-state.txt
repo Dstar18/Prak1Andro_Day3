@@ -1,0 +1,4 @@
+#Sun Jun 20 00:43:22 WIB 2021
+base.0=/home/star/AndroidStudioProjects/Prak1_Day3/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

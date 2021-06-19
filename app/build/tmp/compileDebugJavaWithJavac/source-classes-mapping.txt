@@ -1,0 +1,6 @@
+com/example/prak1_day3/BuildConfig.java
+ com.example.prak1_day3.BuildConfig
+com/example/prak1_day3/MainActivity.java
+ com.example.prak1_day3.MainActivity
+com/example/prak1_day3/activity_skor.java
+ com.example.prak1_day3.activity_skor
