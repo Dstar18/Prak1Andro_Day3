@@ -1,7 +1,7 @@
 # Prak1Andro_Day3
 <b>Praktikum Android Studio #1 Pertemuan 3 (Intents)</b>
 
-Nama : Dedi Bintang Pamungkas
+Nama : Dedi Bintang Pamungkas<br>
 Membuat aplikasi skor bola basket
 1. Halaman pertama, input nama tim
 <img src="Dokumen/hal1.jpg" width="500" height="1000">
