@@ -1,5 +1,5 @@
 # Prak1Andro_Day3
-<b>Praktikum Android Studio #1 Pertemuan 3 (Intents)</b>
+<b>Praktikum Android Studio #1 Pertemuan 3 (Intent Explisit)</b>
 
 Nama : Dedi Bintang Pamungkas<br>
 Membuat aplikasi skor bola basket
